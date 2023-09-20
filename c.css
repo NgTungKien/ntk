@@ -1,0 +1,47 @@
+.img-fluids {
+    height: 450px;
+    width: 100%;
+}
+
+.containermy {
+    background-color: black;
+    width: 1280px;
+    position: relative;
+    right: 92px;
+}
+
+body {
+    background-color: rgb(247, 235, 238);
+}
+
+.btn-block {
+    margin-left: 233px;
+}
+
+.btn-floating {
+    background-color: rgb(255, 255, 255);
+}
+
+button:hover {
+    background-color: white;
+}
+
+.text-uppercase {
+    color: white;
+}
+
+.form-label {
+    color: white;
+}
+
+.text-white1 {
+    margin-right: 140px;
+    color: white;
+}
+.lll{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position:relative; bottom:9px;
+    font-size: 25px;
+}
